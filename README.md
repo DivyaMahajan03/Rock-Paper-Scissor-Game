@@ -1,0 +1,1 @@
+A simple Python game where the user plays Rock, Paper, Scissors against the computer. The program takes the user's choice as input, generates a random choice for the computer, and determines the winner based on the game rules. It demonstrates basic Python concepts like conditional statements, loops, and random number generation.
